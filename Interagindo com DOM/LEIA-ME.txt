@@ -1,0 +1,139 @@
+Usando VueJS para Interagir com a DOM
+
+10. Introdução do Módulo 
+00:37
+
+
+11. Entendendo VueJS Templates 
+04:29
+
+
+12. Sintaxe de Template e Instância VueJS Trabalhando Juntos 
+04:21
+
+
+13. Acessando Dados na Instância VueJS 
+03:06
+
+
+14. Binding de Atributos 
+05:07
+
+
+15. Entendendo e Usando Diretivas 
+02:50
+
+
+16. Evitando Re-Renderização com v-once 
+02:49
+
+
+17. Como Imprimir HTML Puro 
+04:09
+
+
+18. Hora de Praticar - Template 
+02:42
+
+desafio-01.zip
+
+19. Hora de Praticar - Template (Resposta) 
+08:38
+
+desafio-01-resp.zip
+
+20. Escutando Eventos 
+04:20
+
+
+21. Obtendo Dados do Evento 
+05:29
+
+
+22. Passando nosso próprios Argumentos com Eventos 
+05:04
+
+
+23. Modificadores de Eventos 
+06:39
+
+Event Modifiers
+
+24. Eventos de Teclado 
+03:20
+
+Key Modifiers
+
+25. Hora de Praticar - Eventos 
+01:17
+
+desafio-02.zip
+
+26. Hora de Praticar - Eventos (Resposta) 
+05:30
+
+desafio-02-resp.zip
+
+27. Código JavaScript no Template 
+03:42
+
+
+28. Usando Two-Way-Binding 
+04:15
+
+
+29. Propriedades Computadas 
+09:17
+
+
+30. Monitorando as Mudanças 
+04:37
+
+
+31. Sintaxe Reduzida (Shorthands) 
+02:33
+
+
+32. Hora de Praticar - Propriedades Reativas 
+01:36
+
+desafio-03.zip
+
+33. Hora de Praticar - Propriedades Reativas (Resposta) 
+03:34
+
+desafio-03-resp.zip
+
+34. Estilo Dinâmico e Classe CSS #01 
+04:56
+
+
+35. Estilo Dinâmico e Classe CSS #02 
+01:52
+
+
+36. Estilo Dinâmico e Classe CSS #03 
+04:33
+
+
+37. Estilo Dinâmico Sem Classes CSS 
+05:50
+
+
+38. Hora de Praticar: Estilo 
+03:03
+
+desafio-04.zip
+
+39. Hora de Praticar: Estilo (Resposta) 
+13:31
+
+desafio-04-resp.zip
+
+40. Conclusão do Módulo 
+00:44
+
+
+41. Recursos do Módulo & Links Úteis 
+
+dom.zip
